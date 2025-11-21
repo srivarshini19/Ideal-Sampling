@@ -175,15 +175,20 @@ plt.show()
 ```
 # OUTPUT WAVEFORM
 # IDEAL SAMPLING
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/816c81c2-d999-46d1-8430-3edc7e3eb664" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/0dd43dba-dd2a-4862-b977-7d5f9dceed51" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/3c9f6f7f-cc17-466b-9039-6b75b3d16393" />
 
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/6e3d39f5-cc9e-4e99-9ba7-daf42cc3485f" />
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/651aa3f1-c677-479a-893a-db55b8f7b265" />
-<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/58a42826-2f84-4310-9c40-86758386aae3" />
 
 # NATURAL SAMPLING
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/87871788-9b0d-4b5d-b9e3-0d40552246ab" />
+<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/e0763e29-8ab2-4289-a39f-c1ed0318620f" />
+
 # FLAT-TOP SAMPLING
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/867368b5-d37b-4e40-8954-e13c41de7a75" />
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/c906d22b-a497-4d15-b096-f8b7dda48234" />
+
+# Result
+Thus the construction and reconstruction of Ideal,Natural and Flat-top sampling were successfully implemented using Python and the corresponding waveforms were obtained.
+
 
 # RESULTS
 Thus the construction and reconstruction of Ideal, Natural and Flat-top sampling were successfully implemented using Python and the corresponding waveforms were obtained.

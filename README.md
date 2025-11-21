@@ -186,9 +186,6 @@ plt.show()
 # FLAT-TOP SAMPLING
 <img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/c906d22b-a497-4d15-b096-f8b7dda48234" />
 
-# Result
-Thus the construction and reconstruction of Ideal,Natural and Flat-top sampling were successfully implemented using Python and the corresponding waveforms were obtained.
-
 
 # RESULTS
 Thus the construction and reconstruction of Ideal, Natural and Flat-top sampling were successfully implemented using Python and the corresponding waveforms were obtained.
